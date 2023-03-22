@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-21T13:51:07.096Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="OUdViKU39PiNGwkzMqxe" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-22T02:43:33.950Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="I740A9IVkoZjrYDuT6jJ" version="21.0.8" type="github">
   <diagram name="Page-1" id="82e54ff1-d628-8f03-85c4-9753963a91cd">
     <mxGraphModel dx="1343" dy="906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -54,6 +54,9 @@
         </mxCell>
         <mxCell id="YIFMpMohFCwJruksvC_Z-9" value="&lt;p style=&quot;line-height: 60%;&quot;&gt;最开始的客户见证怎么来的?&lt;/p&gt;&lt;p style=&quot;line-height: 60%;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;1、给一些身边潜在客户低价优惠,做出来的。&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 60%;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;2、第一批相信你的人，做出来的。&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 60%;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;3、借其他同行的图,发出来的。&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 60%;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;4、自己拿P图软件或者水军搞出来的&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 60%;&quot;&gt;持续的客户见证怎么来的?&lt;/p&gt;&lt;p style=&quot;line-height: 60%;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;1、自己的客户真实做出来。&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 60%;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;2、自己用作图软件P出来。&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 60%;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 60%;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;3、自己请水军刷起来。&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=default;fillColor=#99e1f0;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="30" y="600" width="290" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="YIFMpMohFCwJruksvC_Z-10" value="&lt;font color=&quot;#fa0505&quot; style=&quot;font-size: 24px;&quot;&gt;造神运动&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="730" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
